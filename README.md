@@ -28,10 +28,6 @@
 [![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksureshnaik2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksureshnaik2006-commits)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepaksureshnaik2006-commits&color=6d28d9&style=flat-square&label=Profile+Views)
-![GitHub Followers](https://img.shields.io/github/followers/deepaksureshnaik2006-commits?style=flat-square&color=6d28d9&label=Followers&logo=github&logoColor=white)
 
 </div>
 
@@ -127,7 +123,7 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1e1b4b&hide_border=false&border_color=6d28d9&radius=6" alt="Contribution Activity Graph" />
+[![Deepak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&theme=react-dark&hide_border=true)](https://github.com/deepaksureshnaik2006-commits)
 
 </div>
 
