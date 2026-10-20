@@ -44,38 +44,22 @@
 <!-- SECTION 2 · ABOUT ME                                        -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> About Me
+## 👨‍💻 About Me
 
-I'm **Deepak Suresh Naik**, a second-year **B.E. student in Artificial Intelligence and Machine Learning** at BMS Institute of Technology and Management, Bengaluru (CGPA: **9.31 / 10**). I am passionate about building practical, AI-powered applications that solve real problems — with a strong foundation in Python, full-stack development, and emerging LLM technologies.
+Hi, I'm **Deepak Suresh Naik** — a **B.E. student in Artificial Intelligence and Machine Learning** at BMS Institute of Technology and Management, Bengaluru, maintaining a CGPA of **9.31 / 10**.
 
-My project work spans AI video intelligence platforms, LLM-powered SQL query optimisers, and mental health support applications — built with production-grade tooling including **FastAPI, React, Node.js, PostgreSQL, Supabase, and Groq API**. I actively explore **Retrieval-Augmented Generation (RAG)**, semantic search, and speech AI to develop intelligent, context-aware systems.
+I build AI-powered applications that solve real problems. My work spans intelligent video analysis platforms, LLM-driven developer tools, and full-stack mental health applications — each one grounded in clean engineering and genuine problem-solving.
 
-I believe in learning by shipping. I have competed in national hackathons and earned a **🥇 1st Place finish at HACKERRING 2.0** with Team Knight Coders for **VIDARA AI**.
+My core interest lies at the intersection of **Large Language Models, Retrieval-Augmented Generation, and full-stack development**. I work across the entire stack — from designing FastAPI and Node.js backends to building React frontends — and I integrate AI capabilities such as speech transcription, semantic search, and LLM-powered analysis into products that are practical and usable.
 
-```yaml
-name:         Deepak Suresh Naik
-role:         AI / ML & Software Engineering Student
-institution:  BMS Institute of Technology & Management
-degree:       B.E. in Artificial Intelligence and Machine Learning
-cgpa:         "9.31 / 10"
-location:     Bengaluru, India
-interests:
-  - Large Language Models & RAG Pipelines
-  - Full-Stack AI Application Development
-  - Speech AI & Multimodal Content Understanding
-  - Data Structures & Competitive Problem Solving
-```
+I won **1st Place at HACKERRING 2.0**, a 36-hour national hackathon, where my team built **VIDARA AI** — an AI platform for transcribing, diarizing, and semantically querying long-form video and podcast content.
 
-### 🔭 Open To
-
-- 🎓 **Summer Internships** — AI / ML / Full-Stack Software Engineering
-- 🤝 **Collaborative Projects** and open-source contributions
-- ⚡ **Hackathons** and competitive programming events
-- 💡 **Research collaborations** in AI, NLP, and LLM domains
+I'm actively looking for **internships, open-source collaborations, and hackathon opportunities** where I can contribute meaningfully and keep learning.
 
 <br/>
 
 ---
+
 
 <!-- ──────────────────────────────────────────────────────────── -->
 <!-- SECTION 3 · SKILLS                                          -->
