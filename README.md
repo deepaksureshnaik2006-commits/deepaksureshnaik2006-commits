@@ -119,7 +119,7 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 <!-- SECTION 4 · CONTRIBUTION SNAKE                              -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
