@@ -116,14 +116,27 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 ---
 
 <!-- ──────────────────────────────────────────────────────────── -->
-<!-- SECTION 4 · CONTRIBUTION ACTIVITY                           -->
+<!-- SECTION 4 · CONTRIBUTION SNAKE                              -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-## 📈 Contribution Activity
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&bg_color=0d1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&area_color=1e1b4b&hide_border=true&radius=6" width="100%" alt="Contribution Activity Graph" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/deepaksureshnaik2006-commits/deepaksureshnaik2006-commits/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/deepaksureshnaik2006-commits/deepaksureshnaik2006-commits/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/deepaksureshnaik2006-commits/deepaksureshnaik2006-commits/output/github-contribution-grid-snake-dark.svg"
+  />
+</picture>
 
 </div>
 
