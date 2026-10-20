@@ -123,7 +123,7 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 
 <div align="center">
 
-[![Deepak's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&theme=react-dark&hide_border=true)](https://github.com/deepaksureshnaik2006-commits)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&theme=react-dark&hide_border=true" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
