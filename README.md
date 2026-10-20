@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6d28d9,4c1d95,312e81,1e1b4b&height=230&section=header&text=Deepak%20Suresh%20Naik&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%26%20Software%20Engineering%20Student%20%7C%20Building%20Intelligent%20Applications&descAlignY=60&descSize=16&descColor=c4b5fd" alt="Header — Deepak Suresh Naik" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=230&section=header&text=Deepak%20Suresh%20Naik&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20/%20ML%20%26%20Software%20Engineering%20Student%20%7C%20Building%20Intelligent%20Applications&descAlignY=60&descSize=16&descColor=c4b5fd" alt="Header Banner" />
 
 <br/>
 
@@ -385,29 +385,7 @@ The platform demonstrates a production-grade full-stack architecture: a statical
 ---
 
 
-<!-- ──────────────────────────────────────────────────────────── -->
-<!-- SECTION 10 · GITHUB ANALYTICS                               -->
-<!-- ──────────────────────────────────────────────────────────── -->
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksureshnaik2006-commits&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&icon_color=a78bfa&text_color=c9d1d9&border_color=6d28d9&hide_border=false&rank_icon=github" alt="GitHub Stats" height="180"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com?user=deepaksureshnaik2006-commits&theme=tokyonight&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=7c3aed&border=6d28d9&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak Stats" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepaksureshnaik2006-commits&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=7c3aed&text_color=c9d1d9&border_color=6d28d9&hide_border=false&langs_count=8" alt="Top Languages" height="175"/>
-
-</div>
-
-> 📌 *Language percentages represent repository language statistics, not skill proficiency levels.*
-
-<br/>
-
----
 
 <!-- ──────────────────────────────────────────────────────────── -->
 <!-- SECTION 11 · GITHUB TROPHIES                                -->
