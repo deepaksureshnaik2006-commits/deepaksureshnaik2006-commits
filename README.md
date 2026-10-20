@@ -14,7 +14,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=B.E.+in+AI+%2F+ML+%40+BMSIT+%7C+CGPA%3A+9.31%2F10;Full-Stack+AI+Application+Developer;LLM+%7C+RAG+%7C+Semantic+Retrieval+Engineer;Speech+AI+%7C+Whisper+%7C+Speaker+Diarization;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=7C3AED&center=true&vCenter=true&width=750&lines=Aspiring+AI+Engineer;Turning+Ideas+into+Full-Stack+AI+Products;From+Raw+Data+to+Intelligent+Applications;React+%C2%B7+FastAPI+%C2%B7+PostgreSQL+%C2%B7+Groq+%C2%B7+Supabase;Open+to+Collaborate+%C2%B7+Open+to+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
