@@ -123,7 +123,7 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deepaksureshnaik2006-commits&theme=react-dark&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=deepaksureshnaik2006-commits&theme=tokyonight" width="100%" alt="Contribution Activity Graph" />
 
 </div>
 
