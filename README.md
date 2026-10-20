@@ -10,7 +10,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=230&section=header&text=Deepak%20Suresh%20Naik&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20/%20ML%20%26%20Software%20Engineering%20Student%20%7C%20Building%20Intelligent%20Applications&descAlignY=60&descSize=16&descColor=c4b5fd" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,50:4c1d95,100:1e1b4b&height=230&section=header&text=Deepak%20Suresh%20Naik&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%2F%20ML%20%7C%20Software%20Engineering%20Student%20%7C%20Building%20Intelligent%20Applications&descAlignY=60&descSize=16&descColor=c4b5fd" alt="Header Banner" />
 
 <br/>
 
@@ -44,9 +44,9 @@
 <!-- SECTION 2 · ABOUT ME                                        -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> About Me
 
-I'm **Deepak Suresh Naik**, a second-year **B.E. student in Artificial Intelligence and Machine Learning** at BMS Institute of Technology & Management, Bengaluru (CGPA: **9.31 / 10**). I am passionate about building practical, AI-powered applications that solve real problems — with a strong foundation in Python, full-stack development, and emerging LLM technologies.
+I'm **Deepak Suresh Naik**, a second-year **B.E. student in Artificial Intelligence and Machine Learning** at BMS Institute of Technology and Management, Bengaluru (CGPA: **9.31 / 10**). I am passionate about building practical, AI-powered applications that solve real problems — with a strong foundation in Python, full-stack development, and emerging LLM technologies.
 
 My project work spans AI video intelligence platforms, LLM-powered SQL query optimisers, and mental health support applications — built with production-grade tooling including **FastAPI, React, Node.js, PostgreSQL, Supabase, and Groq API**. I actively explore **Retrieval-Augmented Generation (RAG)**, semantic search, and speech AI to develop intelligent, context-aware systems.
 
