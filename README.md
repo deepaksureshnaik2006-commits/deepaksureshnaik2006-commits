@@ -18,9 +18,8 @@
 
 <br/>
 
-![University](https://img.shields.io/badge/BMSIT%26M-B.E.%20AI%20%26%20ML-6d28d9?style=flat-square&logo=academia&logoColor=white)
+![University](https://img.shields.io/badge/BMSIT%26M-B.E.%20AI%20%26%20ML-6d28d9?style=flat-square&logoColor=white)
 ![CGPA](https://img.shields.io/badge/CGPA-9.31%2F10-4c1d95?style=flat-square&logo=bookstack&logoColor=white)
-![Batch](https://img.shields.io/badge/Batch-2024–2028-312e81?style=flat-square&logo=mortarboard&logoColor=white)
 ![Location](https://img.shields.io/badge/Bengaluru-India-7c3aed?style=flat-square&logo=googlemaps&logoColor=white)
 
 <br/>
@@ -144,8 +143,8 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-deepaksureshnaik2006%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksureshnaik2006@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksureshnaik2006@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-naik-82a469333)
-[![GitHub](https://img.shields.io/badge/GitHub-deepaksureshnaik2006--commits-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksureshnaik2006-commits)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksureshnaik2006-commits)
 
 </div>
