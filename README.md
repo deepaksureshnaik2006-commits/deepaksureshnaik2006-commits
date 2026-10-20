@@ -78,55 +78,60 @@ interests:
 ---
 
 <!-- ──────────────────────────────────────────────────────────── -->
-<!-- SECTION 3 · TECH STACK                                      -->
+<!-- SECTION 3 · SKILLS                                          -->
 <!-- ──────────────────────────────────────────────────────────── -->
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
 ### 🔷 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,html,css&theme=dark" alt="Languages: Python, C++, C, JavaScript, TypeScript, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,javascript,typescript,html,css&theme=dark" alt="Python, C++, C, JavaScript, TypeScript, HTML, CSS" />
 </p>
 
-### 🖥️ Frontend
+### 🤖 AI / ML
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" alt="Frontend: React, Vite, Tailwind CSS" />
-</p>
-
-![Recharts](https://img.shields.io/badge/Recharts-Data%20Visualisation-22d3ee?style=flat-square&logo=chartdotjs&logoColor=white)
-
-### ⚙️ Backend & Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi,postgresql,mysql,supabase&theme=dark" alt="Backend & Databases: Node.js, Express, Flask, FastAPI, PostgreSQL, MySQL, Supabase" />
-</p>
-
-![REST API](https://img.shields.io/badge/REST%20API-Design-6d28d9?style=flat-square&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-Authentication-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Query%20Design-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### 🤖 AI / ML & LLMs
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-4c1d95?style=flat-square&logoColor=white)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6d28d9?style=flat-square&logoColor=white)
+![Random Forest](https://img.shields.io/badge/Random%20Forest-7c3aed?style=flat-square&logoColor=white)
+![Deep Learning ANN](https://img.shields.io/badge/Deep%20Learning%20(ANN)-a78bfa?style=flat-square&logoColor=white)
 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
-![Groq API](https://img.shields.io/badge/Groq%20API-F55036?style=flat-square&logoColor=white)
-![Whisper](https://img.shields.io/badge/Whisper%20Large--v3-Speech%20AI-6d28d9?style=flat-square&logo=openai&logoColor=white)
 
-### ☁️ Cloud, DevOps & Tooling
+### 🖥️ Libraries & Frameworks
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Tooling: Git, GitHub, VS Code, Jupyter" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,flask&theme=dark" alt="React, Vite, Node.js, Express.js, Flask" />
 </p>
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=tailwind,fastapi&theme=dark" alt="Tailwind CSS, FastAPI" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase&theme=dark" alt="MySQL, PostgreSQL, Supabase" />
+</p>
+
+![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+### 🔧 Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" alt="Git, GitHub, VS Code, Jupyter Notebook" />
+</p>
+
+### 💡 Core Concepts
+
+![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4c1d95?style=flat-square&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-6d28d9?style=flat-square&logoColor=white)
+![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7c3aed?style=flat-square&logoColor=white)
+![SDLC](https://img.shields.io/badge/SDLC-312e81?style=flat-square&logoColor=white)
 
 <br/>
 
