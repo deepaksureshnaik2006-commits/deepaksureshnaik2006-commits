@@ -131,7 +131,6 @@ interests:
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-4c1d95?style=flat-square&logoColor=white)
 ![Statistics](https://img.shields.io/badge/Statistics-6d28d9?style=flat-square&logoColor=white)
 ![OOP](https://img.shields.io/badge/Object--Oriented%20Programming-7c3aed?style=flat-square&logoColor=white)
-![SDLC](https://img.shields.io/badge/SDLC-312e81?style=flat-square&logoColor=white)
 
 <br/>
 
