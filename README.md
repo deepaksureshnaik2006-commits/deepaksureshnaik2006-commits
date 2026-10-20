@@ -129,18 +129,12 @@ I'm actively looking for **internships, open-source collaborations, and hackatho
 
 <br/>
 
----
-
 <!-- ──────────────────────────────────────────────────────────── -->
-<!-- SECTION 5 · CONNECT                                         -->
+<!-- FOOTER                                                       -->
 <!-- ──────────────────────────────────────────────────────────── -->
-
-## 🤝 Connect With Me
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepaksureshnaik2006@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-naik-82a469333)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/deepaksureshnaik2006-commits)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1e1b4b&height=120&section=footer&animation=fadeIn" alt="Footer" />
 
 </div>
